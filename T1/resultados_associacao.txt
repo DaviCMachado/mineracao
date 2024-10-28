@@ -1,0 +1,138 @@
+Top 5 Regras de Associação:
+
+Regra 116: Se {'pastel presunto e queijo'} então {'refri - pepsi'}
+  - Suporte: 0.0407
+  - Confiança: 1.0000
+  - Lift: 7.6875
+
+Regra 124: Se {'queijo mussarela', 'presunto perdigao'} então {'pao frances'}
+  - Suporte: 0.0488
+  - Confiança: 0.8571
+  - Lift: 3.7653
+
+Regra 129: Se {'queijo mussarela', 'presunto seara'} então {'pao cabrito'}
+  - Suporte: 0.0325
+  - Confiança: 0.8000
+  - Lift: 7.5692
+
+Regra 131: Se {'presunto seara', 'pao cabrito'} então {'queijo mussarela'}
+  - Suporte: 0.0325
+  - Confiança: 0.8000
+  - Lift: 2.5231
+
+Regra 125: Se {'pao frances', 'presunto perdigao'} então {'queijo mussarela'}
+  - Suporte: 0.0488
+  - Confiança: 0.7500
+  - Lift: 2.3654
+
+
+Regra Mais Influente 1 para 1:
+
+Se {'pastel presunto e queijo'} então {'refri - pepsi'}
+  - Suporte: 0.0407
+  - Confiança: 1.0000
+  - Lift: 7.6875
+
+
+Regras que Implicam na Compra de 'Doce':
+
+Regra 7: Se {'pastel queijo'} então {'doce goiabada'}
+  - Suporte: 0.0244
+  - Confiança: 0.1364
+  - Lift: 0.9318
+
+Regra 10: Se {'pastel queijo'} então {'doce leite'}
+  - Suporte: 0.0244
+  - Confiança: 0.1364
+  - Lift: 1.2902
+
+Regra 24: Se {'pastel carne'} então {'doce leite'}
+  - Suporte: 0.0244
+  - Confiança: 0.2000
+  - Lift: 1.8923
+
+Regra 32: Se {'refri - fanta'} então {'doce amendoim'}
+  - Suporte: 0.0244
+  - Confiança: 0.1765
+  - Lift: 1.4471
+
+Regra 34: Se {'refri - fanta'} então {'doce goiabada'}
+  - Suporte: 0.0407
+  - Confiança: 0.2941
+  - Lift: 2.0098
+
+Regra 39: Se {'pao frances'} então {'doce amendoim'}
+  - Suporte: 0.0325
+  - Confiança: 0.1429
+  - Lift: 1.1714
+
+Regra 44: Se {'pao frances'} então {'doce leite'}
+  - Suporte: 0.0244
+  - Confiança: 0.1071
+  - Lift: 1.0137
+
+Regra 62: Se {'pao gajeta'} então {'doce leite'}
+  - Suporte: 0.0244
+  - Confiança: 0.2143
+  - Lift: 2.0275
+
+Regra 67: Se {'pastel frango'} então {'doce amendoim'}
+  - Suporte: 0.0244
+  - Confiança: 0.1765
+  - Lift: 1.4471
+
+Regra 69: Se {'pastel frango'} então {'doce goiabada'}
+  - Suporte: 0.0244
+  - Confiança: 0.1765
+  - Lift: 1.2059
+
+Regra 77: Se {'cafe iguacu'} então {'doce amendoim'}
+  - Suporte: 0.0244
+  - Confiança: 0.2308
+  - Lift: 1.8923
+
+Regra 79: Se {'presunto sadia'} então {'doce amendoim'}
+  - Suporte: 0.0325
+  - Confiança: 0.2000
+  - Lift: 1.6400
+
+Regra 84: Se {'presunto seara'} então {'doce goiabada'}
+  - Suporte: 0.0244
+  - Confiança: 0.1765
+  - Lift: 1.2059
+
+Regra 90: Se {'cafe melita'} então {'doce goiabada'}
+  - Suporte: 0.0325
+  - Confiança: 0.2353
+  - Lift: 1.6078
+
+Regra 92: Se {'queijo mussarela'} então {'doce goiabada'}
+  - Suporte: 0.0407
+  - Confiança: 0.1282
+  - Lift: 0.8761
+
+Regra 94: Se {'refri - coca cola'} então {'doce goiabada'}
+  - Suporte: 0.0244
+  - Confiança: 0.1765
+  - Lift: 1.2059
+
+Regra 96: Se {'queijo minas'} então {'doce goiabada'}
+  - Suporte: 0.0244
+  - Confiança: 0.2308
+  - Lift: 1.5769
+
+Regra 99: Se {'cafe melita'} então {'doce leite'}
+  - Suporte: 0.0325
+  - Confiança: 0.2353
+  - Lift: 2.2262
+
+Regra 135: Se {'queijo mussarela', 'cafe melita'} então {'doce goiabada'}
+  - Suporte: 0.0244
+  - Confiança: 0.7500
+  - Lift: 5.1250
+
+Regra 138: Se {'cafe melita'} então {'queijo mussarela', 'doce goiabada'}
+  - Suporte: 0.0244
+  - Confiança: 0.1765
+  - Lift: 4.3412
+

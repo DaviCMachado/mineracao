@@ -1,1966 +1,862 @@
 [
     {
         "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
+            "queijo mussarela",
+            "cafe iguacu",
+            "refri - pepsi"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            }
+    },
+    {
+        "produtos": [
+            "queijo minas",
+            "pao gajeta",
+            "doce leite"
+        ]
+    },
+    {
+        "produtos": [
+            "presunto seara",
+            "pao cabrito",
+            "queijo mussarela"
+        ]
+    },
+    {
+        "produtos": [
+            "pao cabrito",
+            "presunto sadia",
+            "pastel queijo",
+            "queijo minas"
+        ]
+    },
+    {
+        "produtos": [
+            "doce amendoim",
+            "refri - pepsi",
+            "pao gajeta"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - pepsi",
+            "cafe melita"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe nestle",
+            "pastel queijo"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo mussarela",
+            "pastel frango",
+            "pao gajeta",
+            "doce leite"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "pao frances",
+            "refri - fanta",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "doce goiabada",
+            "refri - fanta",
+            "pao gajeta",
+            "pastel carne"
+        ]
+    },
+    {
+        "produtos": [
+            "pao cabrito",
+            "queijo mussarela",
+            "pastel frango"
+        ]
+    },
+    {
+        "produtos": [
+            "doce leite",
+            "cafe melita"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - coca cola",
+            "queijo mussarela",
+            "cafe nestle",
+            "pastel carne"
+        ]
+    },
+    {
+        "produtos": [
+            "presunto seara",
+            "doce goiabada",
+            "cafe melita"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - pepsi",
+            "cafe nestle",
+            "presunto sadia",
+            "pao gajeta"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe iguacu",
+            "presunto perdigao",
+            "refri - pepsi",
+            "pao frances"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo lanche",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "queijo mussarela",
+            "pao frances",
+            "refri - coca cola"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - coca cola",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "doce amendoim",
+            "pao cabrito",
+            "cafe iguacu",
+            "refri - coca cola"
+        ]
+    },
+    {
+        "produtos": [
+            "pao cabrito",
+            "queijo mussarela"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel presunto e queijo",
+            "refri - pepsi"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel frango",
+            "cafe melita"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe melita",
+            "queijo minas",
+            "pastel queijo"
+        ]
+    },
+    {
+        "produtos": [
+            "doce goiabada",
+            "pastel frango"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "presunto seara",
+            "doce goiabada",
+            "queijo minas"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe melita",
+            "presunto seara",
+            "refri - coca cola",
+            "pao frances"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel presunto e queijo",
+            "refri - pepsi"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel carne",
+            "doce leite"
+        ]
+    },
+    {
+        "produtos": [
+            "presunto sadia",
+            "pastel queijo",
+            "doce goiabada",
+            "queijo minas"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe iguacu",
+            "pastel carne",
+            "refri - coca cola"
+        ]
+    },
+    {
+        "produtos": [
+            "presunto sadia",
+            "cafe melita",
+            "pastel queijo",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel frango",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "doce amendoim",
+            "pao frances",
+            "presunto sadia",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "presunto sadia",
+            "queijo mussarela",
+            "doce amendoim",
+            "cafe melita"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel frango",
+            "queijo lanche",
+            "pao frances",
+            "cafe nestle"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - coca cola",
+            "queijo mussarela",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "presunto sadia",
+            "queijo minas",
+            "refri - pepsi"
+        ]
+    },
+    {
+        "produtos": [
+            "doce amendoim",
+            "presunto sadia",
+            "pastel frango"
+        ]
+    },
+    {
+        "produtos": [
+            "doce amendoim",
+            "cafe iguacu",
+            "pastel carne"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "pao frances",
+            "doce leite",
+            "presunto seara"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "cafe iguacu",
+            "queijo minas"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - coca cola",
+            "pastel frango",
+            "pao gajeta",
+            "queijo mussarela"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - coca cola",
+            "queijo mussarela"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo minas",
+            "doce amendoim",
+            "pao gajeta"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo lanche",
+            "refri - coca cola"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel frango",
+            "doce leite",
+            "pao gajeta"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel presunto e queijo",
+            "refri - pepsi"
+        ]
+    },
+    {
+        "produtos": [
+            "doce leite",
+            "pao frances",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "doce goiabada",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "presunto seara",
+            "cafe nestle"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel frango",
+            "doce amendoim"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            }
+    },
+    {
+        "produtos": [
+            "presunto seara",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "doce leite",
+            "pastel carne",
+            "queijo mussarela",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "doce amendoim",
+            "refri - fanta",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo lanche",
+            "pastel carne"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo mussarela",
+            "cafe melita",
+            "pastel queijo",
+            "doce goiabada"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo mussarela",
+            "doce goiabada",
+            "cafe melita",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe melita",
+            "pao cabrito",
+            "refri - pepsi",
+            "doce leite"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "cafe melita"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "refri - coca cola",
+            "queijo mussarela",
+            "pastel queijo"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe melita",
+            "queijo minas",
+            "pastel carne",
+            "pao frances"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo minas",
+            "pao frances",
+            "doce amendoim"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "refri - pepsi",
+            "queijo mussarela",
+            "doce amendoim"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "cafe iguacu",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "doce goiabada",
+            "presunto sadia",
+            "refri - coca cola",
+            "pao gajeta"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe iguacu",
+            "doce amendoim",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "pao gajeta",
+            "presunto seara",
+            "cafe melita"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "pao frances",
+            "queijo mussarela",
+            "presunto sadia"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo mussarela",
+            "presunto perdigao",
+            "doce amendoim",
+            "pastel queijo"
+        ]
+    },
+    {
+        "produtos": [
+            "doce amendoim",
+            "pastel frango",
+            "refri - fanta",
+            "cafe nestle"
+        ]
+    },
+    {
+        "produtos": [
+            "doce goiabada",
+            "refri - coca cola",
+            "pao cabrito"
+        ]
+    },
+    {
+        "produtos": [
+            "cafe iguacu",
+            "pastel carne",
+            "refri - coca cola"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo lanche",
+            "presunto sadia",
+            "refri - fanta"
+        ]
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "cafe melita",
+            "doce leite",
+            "refri - pepsi"
+        ]
+    },
+    {
+        "produtos": [
+            "pao cabrito",
+            "presunto seara",
+            "pastel carne",
+            "queijo lanche"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo mussarela",
+            "refri - fanta",
+            "doce goiabada"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo lanche",
+            "presunto perdigao"
+        ]
+    },
+    {
+        "produtos": [
+            "queijo mussarela",
+            "presunto seara",
+            "pao cabrito"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "presunto e queijo"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            }
+            "queijo lanche",
+            "presunto perdigao",
+            "pao cabrito"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            }
+    },
+    {
+        "produtos": [
+            "queijo mussarela",
+            "presunto seara",
+            "pao cabrito"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "presunto e queijo"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
+    },
+    {
+        "produtos": [
+            "presunto seara",
+            "pao gajeta",
+            "queijo mussarela"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            }
+    },
+    {
+        "produtos": [
+            "queijo minas",
+            "pastel carne"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            }
+    },
+    {
+        "produtos": [
+            "queijo minas",
+            "doce goiabada",
+            "pastel frango"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            }
+            "pao frances",
+            "cafe melita",
+            "doce leite",
+            "pastel queijo"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "presunto e queijo"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
+            "pao gajeta",
+            "queijo mussarela",
+            "presunto sadia",
+            "pastel carne"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
+            "cafe iguacu",
+            "refri - coca cola",
+            "doce goiabada",
+            "presunto seara"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
+            "pastel queijo",
+            "cafe iguacu"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            }
+            "queijo mussarela",
+            "presunto seara",
+            "pao cabrito"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            }
+    },
+    {
+        "produtos": [
+            "presunto perdigao",
+            "doce leite",
+            "queijo minas"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
+            "pao cabrito",
+            "refri - pepsi",
+            "pastel frango"
+        ]
+    },
+    {
         "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
+            "doce amendoim",
+            "pao frances",
+            "presunto seara",
+            "queijo lanche"
+        ]
+    },
     {
         "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            }
+            "pastel carne",
+            "doce leite"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
+            "cafe iguacu",
+            "queijo mussarela",
+            "doce goiabada",
+            "pastel frango"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            }
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "pao gajeta"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            }
-        ]
-    },
+    },
     {
         "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
+            "pastel frango",
+            "cafe iguacu"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
+    },
+    {
+        "produtos": [
+            "pastel queijo",
+            "presunto seara",
+            "cafe maquina"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
+            "refri - fanta",
+            "cafe nestle",
+            "doce goiabada"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
+            "doce goiabada",
+            "cafe melita",
+            "queijo mussarela"
+        ]
+    },
+    {
         "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            }
+            "doce goiabada",
+            "refri - fanta",
+            "pao sovado"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            }
+            "presunto seara",
+            "cafe nestle",
+            "pao gajeta"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
-    {
+            "pastel carne",
+            "refri - coca cola"
+        ]
+    },
+    {
         "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            }
-        ]
-    },
-    {
+            "refri - pepsi",
+            "pastel carne"
+        ]
+    },
+    {
         "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
+            "cafe maquina",
+            "doce goiabada"
+        ]
+    },
+    {
         "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            }
+            "pastel frango",
+            "refri - coca cola"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "sadia"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "minas"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "cabrito"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "amendoim"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "lanche"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "leite"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "iguacu"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "queijo"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "maquina"
-            }
-        ]
-    },
-    {
+            "pao frances",
+            "queijo mussarela",
+            "presunto perdigao",
+            "cafe maquina"
+        ]
+    },
+    {
         "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            }
+            "pao frances",
+            "queijo mussarela",
+            "presunto perdigao",
+            "cafe nestle"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "melita"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            }
-        ]
-    },
-    {
+            "pao frances",
+            "queijo mussarela",
+            "presunto perdigao",
+            "cafe nestle"
+        ]
+    },
+    {
         "produtos": [
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "sovado"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "presunto",
-                "categoria": "seara"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            },
-            {
-                "tipo": "pao",
-                "categoria": "gajeta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            },
-            {
-                "tipo": "pastel",
-                "categoria": "carne"
-            }
+            "pastel frango",
+            "refri - fanta"
         ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "cafe",
-                "categoria": "maquina"
-            },
-            {
-                "tipo": "doce",
-                "categoria": "goiabada"
-            }
+    },
+    {
+        "produtos": [
+            "pastel presunto e queijo",
+            "refri - pepsi"
         ]
     },
     {
         "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "coca cola"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "maquina"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pao",
-                "categoria": "frances"
-            },
-            {
-                "tipo": "queijo",
-                "categoria": "mussarela"
-            },
-            {
-                "tipo": "presunto",
-                "categoria": "perdigao"
-            },
-            {
-                "tipo": "cafe",
-                "categoria": "nestle"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "frango"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "fanta"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "presunto e queijo"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
-        ]
-    },
-    {
-        "produtos": [
-            {
-                "tipo": "pastel",
-                "categoria": "presunto e queijo"
-            },
-            {
-                "tipo": "refri",
-                "categoria": "pepsi"
-            }
+            "pastel presunto e queijo",
+            "refri - pepsi"
         ]
     }
 ]
